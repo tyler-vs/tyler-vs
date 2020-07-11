@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Tyler VS
+Hi, I'm Tyler
 
 I'm am a front-end developer at [We Are Underground](https://www.weareunderground.com/), I help out our Shopify Merchants that use our theme's to make their online business a reality... and sometimes even contribute to the theme's code.
 
