@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 Hi, I'm Tyler
 
-I'm am a front-end developer at [We Are Underground](https://www.weareunderground.com/), I help out our Shopify Merchants that use our theme's to make their online business a reality... and sometimes even contribute to the theme's code.
+I'm am a front-end developer at [We Are Underground](https://www.weareunderground.com/), I help out our Shopify Merchants that use our themes to make their online business ideas into a reality. I occasionally contribute to our theme's code, debug and submit bug fixes and write some of our theme documentation viewed by many merchants. I am also an Arctic Code Vault Contributor!
 
-I love Shopify, HTML5, CSS and JavaScript and Shopify and writing clean and efficient code. I need to write more for [my website](https://tylervanschaick.com/) but it has a few Shopify related articles on it.
+I love working with Shopify, Liquid, HTML5, CSS and JavaScript and writing clean and efficient code and I prefer spaces over tabs. I need to write more for [my website](https://tylervanschaick.com/) but it has a few Shopify related articles on it.
 
-🔭 I’m currently working on Shopify Themes.
-🌱 I’m currently learning Liquid.
-👯 I’m looking to collaborate on something Shopify related.. need to check.
+- 🔭 I’m currently working on Shopify Themes.
+- 🌱 I’m currently learning Liquid.
+- 👯 I’m looking to collaborate on something Shopify related.. need to check.
