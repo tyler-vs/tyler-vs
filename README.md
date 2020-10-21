@@ -24,3 +24,28 @@ I love working with Shopify, Liquid, HTML5, CSS, Git and GitHub and JavaScript a
 - 🔭 I’m currently working on Shopify Themes.
 - 🌱 I’m currently learning Liquid.
 - 👯 I’m looking to collaborate on something Shopify related.. need to check.
+
+
+### Front-End Web Developer Nanodegree
+
+<details>
+  <summary>Skills</summary>
+
+Here are some things I know
+
+- HTML
+- CSS
+- JavaScript
+- Shopify
+- Liquid
+- jQuery
+- Git
+- GitHub
+- Terminal.app (cli)
+- Adobe Photoshop
+- Word and Excel
+- Responsive Web Design 
+- BEM
+- Jekyll
+
+</details>
