@@ -34,18 +34,19 @@ Here are some things I know
 
 - HTML
 - CSS
+- Scss
 - JavaScript
 - Shopify
 - Liquid
 - jQuery
-- Git
-- GitHub
+- Git & GitHub
 - Terminal.app (CLI)
 - Adobe Photoshop
-- Word and Excel
 - Responsive Web Design 
 - BEM
 - Jekyll
+- WordPress
+- PHP
 
 </details>
 
