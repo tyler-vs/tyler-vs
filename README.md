@@ -21,9 +21,9 @@ I'm am a front-end developer at [We Are Underground](https://www.weareundergroun
 
 I love working with Shopify, Liquid, HTML5, CSS, Git and GitHub and JavaScript and feel accomplished when writing clean, efficient, problem solving code. I prefer spaces over tabs. I have a website, [my website](https://tylervanschaick.com/), but need to publish more articles on it.
 
-- 🔭 I’m currently working on Shopify Themes.
-- 🌱 I’m currently learning Liquid.
-- 👯 I’m looking to collaborate on something Shopify related.. need to check.
+- I’m currently working on Shopify Themes.
+- I’m currently learning Liquid.
+- I’m looking to collaborate on something Shopify related.. need to check.
 
 
 ### Front-End Web Developer Nanodegree
