@@ -26,8 +26,6 @@ I love working with Shopify, Liquid, HTML5, CSS, Git and GitHub and JavaScript a
 - I’m looking to collaborate on something Shopify related.. need to check.
 
 
-### Front-End Web Developer Nanodegree
-
 <details>
   <summary>Skills</summary>
 
