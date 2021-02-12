@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Tyler (a junior front-end developer)
+Hi, I'm Tyler (a junior front-end developer),
 
-I'm am a (junior) front-end developer at [We Are Underground](https://www.weareunderground.com/), I help out our Shopify Merchants that use our themes to make their online business ideas into a reality. I occasionally contribute to our theme's code, debug and submit bug fixes and write some of our theme documentation viewed by many merchants. I am also an Arctic Code Vault Contributor!
+I am a support specialist and junior front-end developer at [We Are Underground](https://www.weareunderground.com/). I help out our Shopify Merchants that use our themes to make their online business ideas into a reality. I also contribute to the theme's code, debug and submit bug fixes and write theme documentation.
 
-I love working with Shopify, Liquid, HTML5, CSS, Git and GitHub and JavaScript and feel accomplished when writing clean, efficient, problem solving code. I prefer spaces over tabs. I have a website, [my website](https://tylervanschaick.com/), but need to publish more articles on it.
+I love front-end development and working on the web and with Shopify. I strive to write clean, efficient, problem solving code. I prefer spaces over tabs. I have a website, [my website](https://tylervanschaick.com/), but have a lack of articles to read. Other quick bits:
 
 - I’m currently working on Shopify Themes.
 - I’m currently learning Liquid.
 - I’m looking to collaborate on something Shopify related.. need to check.
-- Grow With Google Front-end Nano Degree Student 
+- Grow With Google Front-end Nano Degree Student
 
 
 <details>
@@ -39,7 +39,8 @@ Here are some things I know
 - Shopify
 - Liquid
 - jQuery
-- Git & GitHub
+- Git 
+- GitHub
 - Terminal.app (CLI)
 - Adobe Photoshop
 - Responsive Web Design 
@@ -47,6 +48,8 @@ Here are some things I know
 - Jekyll
 - WordPress
 - PHP
+- Sublime Text 3
+- Sublime Merge
 
 </details>
 
