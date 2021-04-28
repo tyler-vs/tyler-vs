@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **tyler-vs/tyler-vs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hi, I'm Tyler (a junior front-end developer),
 
 I am a junior front-end developer at [We Are Underground](https://www.weareunderground.com/) where I help contribute to the code for five amazing Shopify themes that are used by hundreds of merchants for their online store. I help maintain the repositories, test, debug, raise issues, fix bugs and even contribute to theme features.
 
