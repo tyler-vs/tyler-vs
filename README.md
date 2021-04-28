@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Tyler (a junior front-end developer),
 
-I am a junior front-end developer at [We Are Underground](https://www.weareunderground.com/) where I help contribute to the code for five amazing Shopify themes that is used by hundreds of merchants for their online store. I help maintain the repositories, test, debug, issues, fix bugs and even add features to the code bases.
+I am a junior front-end developer at [We Are Underground](https://www.weareunderground.com/) where I help contribute to the code for five amazing Shopify themes that are used by hundreds of merchants for their online store. I help maintain the repositories, test, debug, raise issues, fix bugs and even contribute to theme features.
 
 <details>
   <summary>Skills</summary>
