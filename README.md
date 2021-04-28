@@ -17,15 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Tyler (a junior front-end developer),
 
-I am a support specialist and junior front-end developer at [We Are Underground](https://www.weareunderground.com/). I help out our Shopify Merchants that use our themes to make their online business ideas into a reality. I also contribute to the theme's code, debug and submit bug fixes and write theme documentation.
-
-I love front-end development and working on the web and with Shopify. I strive to write clean, efficient, problem solving code. I prefer spaces over tabs. I have a website, [my website](https://tylervanschaick.com/), but have a lack of articles to read. Other quick bits:
-
-- I’m currently working on Shopify Themes.
-- I’m currently learning Liquid.
-- I’m looking to collaborate on something Shopify related.. need to check.
-- Grow With Google Front-end Nano Degree Student
-
+I am a junior front-end developer at [We Are Underground](https://www.weareunderground.com/) where I help contribute to the code for five amazing Shopify themes that is used by hundreds of merchants for their online store. I help maintain the repositories, test, debug, issues, fix bugs and even add features to the code bases.
 
 <details>
   <summary>Skills</summary>
