@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a junior front-end developer at [We Are Underground](https://www.weareunderground.com/) where I help contribute to the code for five amazing Shopify themes that are used by hundreds of merchants for their online store. I help maintain the repositories, test, debug, raise issues, fix bugs and even contribute to theme features.
+I am a junior front-end developer at [We Are Underground](https://www.weareunderground.com/) where I help contribute to the code for six amazing Shopify themes that are used by hundreds of merchants for their online store. I help maintain the repositories, test, debug, raise issues, fix bugs and even contribute to theme features.
 
 
 
