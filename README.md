@@ -36,6 +36,7 @@ Here are some things I know:
 - HTML
 - Jekyll
 - Terminal.app (CLI)
+- GH (CLI)
 - Adobe Photoshop
 - Responsive Web Design 
 - BEM
