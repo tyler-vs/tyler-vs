@@ -30,6 +30,7 @@ Here are some things I know:
 - CSS
 - Scss
 - JavaScript
+- Markdown
 - Shopify
 - Liquid
 - jQuery
@@ -40,12 +41,11 @@ Here are some things I know:
 - Adobe Photoshop
 - Responsive Web Design 
 - BEM
-- Tailwinds
 - Atomic CSS
 - WordPress
 - PHP
-- Sublime Text 3
-- Sublime Merge
+- Customer support
+- Working 
 
 </details>
 
@@ -54,8 +54,32 @@ Here are some things I know:
 
 My setup includes:
 
-- MacBook Pro 
+- MacBook Pro
 - Logitech mouse
 - Apple Airpod Pros
+- Sublime Text 4
+- Sublime Merge
 </details>
 
+
+<details>
+  <summary>Interests</summary>
+
+Technologies and topics that I like to work with and want to pursue learning more of:
+
+- Web Components
+- Maintaining multiple repositories
+- GitHub (Actions, Projects, ect.)
+- Contributing to the Dawn theme
+- Shopify
+- Liquid
+- Contributing to open source
+- Twitter Bootstrap
+- Tailwinds CSS
+- Git
+- Plain/vanilla JavaScript
+- jQuery (I still think it's a great library)
+- Building video games
+- Tabular data
+
+</details>
