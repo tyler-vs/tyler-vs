@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 I am a junior front-end developer at [We Are Underground](https://www.weareunderground.com/) where I help contribute to the code for six amazing Shopify themes that are used by hundreds of merchants for their online store. I help maintain the repositories, test, debug, raise issues, fix bugs and even contribute to theme features.
 
 
-
 <details>
-  <summary>Skills</summary>
-
-Here are some things I know:
-
+  <summary>Skills:</summary>
 
 - Git
 - GitHub
@@ -50,9 +46,7 @@ Here are some things I know:
 </details>
 
 <details>
-  <summary>Uses</summary>
-
-My setup includes:
+  <summary>Uses:</summary>
 
 - MacBook Pro
 - Logitech mouse
@@ -63,14 +57,15 @@ My setup includes:
 
 
 <details>
-  <summary>Interests</summary>
-
-Technologies and topics that I like to work with and want to pursue learning more of:
+  <summary>Interests:</summary>
 
 - Web Components
 - Maintaining multiple repositories
 - GitHub (Actions, Projects, ect.)
 - Contributing to the Dawn theme
+- Jekyll 
+- WordPress theme development
+- Any theme development
 - Shopify
 - Liquid
 - Contributing to open source
@@ -79,7 +74,7 @@ Technologies and topics that I like to work with and want to pursue learning mor
 - Git
 - Plain/vanilla JavaScript
 - jQuery (I still think it's a great library)
-- Building video games
+- Video game projects
 - Tabular data
 
 </details>
