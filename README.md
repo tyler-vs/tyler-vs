@@ -60,21 +60,19 @@ I am a junior front-end developer at [We Are Underground](https://www.weareunder
   <summary>Interests:</summary>
 
 - Web Components
-- Maintaining multiple repositories
-- GitHub (Actions, Projects, ect.)
-- Contributing to the Dawn theme
-- Jekyll 
-- WordPress theme development
-- Any theme development
-- Shopify
-- Liquid
-- Contributing to open source
-- Twitter Bootstrap
-- Tailwinds CSS
-- Git
+- Maintaining multiple Shopify theme repositories
 - Plain/vanilla JavaScript
 - jQuery (I still think it's a great library)
+- Anything Git or GitHub related
+- Contributing to the Shopify Dawn theme
+- Shopify
+- Liquid
+- Contributing to open source projects
+- Twitter Bootstrap
+- Tailwinds CSS
 - Video game projects
 - Tabular data
+- Jekyll site development
+- WordPress theme development
 
 </details>
