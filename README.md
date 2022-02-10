@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a junior front-end developer at [We Are Underground](https://www.weareunderground.com/) where I help contribute to the code for six amazing Shopify themes that are used by hundreds of merchants for their online store. I help maintain the repositories, test, debug, raise issues, fix bugs and even contribute to theme features.
+I am a junior front-end developer at [We Are Underground](https://www.weareunderground.com/) where I help contribute to the code for six amazing Shopify themes that are used by hundreds of merchants for their online store. I help maintain the repositories, test, debug, raise issues, fix bugs and even contribute to theme features. Sometimes I write on [my blog](https://tylervanschaick.com/). 
 
 
 <details>
@@ -48,6 +48,8 @@ I am a junior front-end developer at [We Are Underground](https://www.weareunder
 <details>
   <summary>Uses:</summary>
 
+Check out my [personal setup](https://github.com/tyler-vs/config) and [Sublime Text Snippets](https://github.com/tyler-vs/sublime-snippets).
+  
 - MacBook Pro
 - Logitech mouse
 - Apple Airpod Pros
@@ -65,6 +67,7 @@ I am a junior front-end developer at [We Are Underground](https://www.weareunder
 - jQuery (I still think it's a great library)
 - Anything Git or GitHub related
 - Contributing to the Shopify Dawn theme
+- Markdown
 - Shopify
 - Liquid
 - Contributing to open source projects
