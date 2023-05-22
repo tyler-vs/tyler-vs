@@ -79,7 +79,3 @@ Check out my [personal setup](https://github.com/tyler-vs/config) and [Sublime T
 - WordPress theme development
 
 </details>
-
-<dialog open>
-  Hello world!
-</dialog>
