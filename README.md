@@ -55,6 +55,10 @@ Check out my [personal setup](https://github.com/tyler-vs/config) and [Sublime T
 - Apple Airpod Pros
 - Sublime Text 4
 - Sublime Merge
+- Visual Studio Code
+- San Francisco Mono or Source Code Pro
+- GitHub color scheme
+- 2 spaces
 </details>
 
 
